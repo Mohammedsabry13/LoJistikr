@@ -2,6 +2,12 @@
  * OneTrack Express - Main JavaScript
  * Optimized and organized for better maintainability
  * Bootstrap 5 + WOW.js Integration
+ *
+ * This template was originally created by Mohammed Sabry
+ * Source: https://github.com/Mohammedsabry13
+ *
+ * Licensed under the MIT License (MIT).
+ * See the LICENSE file in the project root for full license text.
  */
 
 (function () {

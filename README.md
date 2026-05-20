@@ -10,8 +10,12 @@ A professional corporate website for **D Lojistik Express (Delma Logistics)**, a
 - **Plus Jakarta Sans** — Google Fonts typography
 - **Vanilla JavaScript** — navbar behavior, form validation
 
+⚠️ This template was originally created by Mohammed Sabry
+credit is required: github.com/Mohammedsabry13
+
 ## ✨ Features
 - Fullscreen hero section with 4-slide background carousel
+
 - Sticky navbar with offcanvas mobile menu
 - About Us, Services & Industries sections
 - Quote request form (Import / Export / Transit)
